@@ -1,0 +1,193 @@
+\documentclass{summarysheet}
+
+\begin{document}
+
+\maketitle{10}{Rotation}
+
+
+\begin{multicols}{2}
+
+\begin{topicbox}{The Rigid Body Model}
+
+\noindent A \emph{rigid body} is an extended object whose size and shape don't change.  Rigid bodies can't be stretched, compressed, or deformed; all points on the rigid body have the same angular velocity and angular acceleration; and rigid bodies can have translational motion, rotational motion, or a combination of both.
+
+\end{topicbox}
+
+
+\begin{topicbox}{Moment of Inertia}
+
+\noindent The \emph{moment of inertia} is the rotational equivalent of mass, and can be calculated for $N$ particles of mass $m_i$ by
+\begin{eqbox}
+I = \sum_i^N  m_i r_i^2,
+\end{eqbox}
+\noindent where $r_i$ is the distance from the axis of rotation.
+
+%For objects that are continuous, the moment of inertia is calculated from
+%\[
+%I = \int r^2 \, dm,
+%\]
+%although it's easier to just look up the value based on its shape and rotation axis:
+
+For some objects, you can just look up the moment of inertia:
+\begin{center}
+\begin{tabular}{ll|ll}
+\textbf{Shape, axis} & \textbf{$I$} &  \textbf{Shape, axis} & \textbf{$I$}\\
+\hline \\
+Thin rod, centre & $(1/12) ML^2$ & Thin rod, end & $(1/3) ML^2$ \\
+Plane, centre & $(1/12) Ma^2$ & Plane, edge & $(1/3) Ma^2$ \\
+Disk & $(1/2) MR^2$ & Hoop & $MR^2$ \\
+Solid sphere & $(2/5) MR^2$ & Spherical shell &$(2/3) MR^2$ 
+\end{tabular}
+\end{center}
+
+The parallel axis theorem allows you to find the moment of inertia about an axis parallel to the centre of mass axis:
+\[
+I = I_\text{cm} + Md^2,
+\]
+where $d$ is the distance from the centre of mass.
+
+\end{topicbox}
+
+
+
+\begin{topicbox}{The Cross Product}
+
+\noindent Two vectors can be multiplied together to get another vector through the \emph{cross-product}:
+\begin{eqbox}
+\vec{A} \times \vec{B} = (AB \sin\alpha, \text{direction by the right hand rule}).
+\end{eqbox}
+
+%\begin{center}
+%\includegraphics[scale=0.7]{fig_cross.pdf}
+%\end{center}
+
+\end{topicbox}
+
+
+
+\begin{topicbox}{Torque}
+
+\noindent Torque is the rotational equivalent of force, and is defined to be
+
+%\begin{multicols}{2}
+\begin{eqbox}
+\vec{\tau} = \vec{r} \times \vec{F},
+\end{eqbox}
+\noindent where $\vec{r}$ is the position of where the force is applied measured from the rotation axis.
+
+Note that \emph{gravitational torque} can be found by treating the object as if all its mass were concentrated at the centre of mass:
+\[
+\tau_\text{grav} = -M g x_\text{cm}.
+\]
+
+%\begin{center}
+%\includegraphics[scale=0.7]{fig_torque.pdf}
+%\end{center}
+
+%\end{multicols}
+
+\end{topicbox}
+
+
+
+\begin{topicbox}{Rotational Kinetic Energy}
+
+\noindent A rigid body object rotating with angular speed $\omega$ has a rotational kinetic energy given by
+\begin{eqbox}
+K_\text{rot} = \frac{1}{2} I \omega^2.
+\end{eqbox}
+
+\end{topicbox}
+
+
+
+\begin{topicbox}{Centre of Mass}
+
+\noindent  An unconstrained object of mass $M$ with no net force will rotate about its \emph{centre of mass}: the only point that remains motionless.  The centre of mass can be found by
+\[
+x_\text{cm} = \frac{1}{M} \int x\, dm \quad \text{and} \quad y_\text{cm} = \frac{1}{M} \int y\, dm,
+\]
+or, if the object consists of $N$ particles of mass $m_i$, 
+\begin{eqbox}
+x_\text{cm} = \frac{1}{M} \sum_i^N m_i x_i \quad \text{and} \quad y_\text{cm} = \frac{1}{M} \sum_i^N m_i y_i.
+\end{eqbox}
+
+\end{topicbox}
+
+\begin{topicbox}{Newton's Second Law for Rotation}
+
+\noindent A net torque causes an angular acceleration given by Newton's second law,
+\begin{eqbox}
+\alpha = \frac{\tau_\text{net}}{I}.
+\end{eqbox}
+
+If an object is stationary, both the \emph{net force} and \emph{net torque} are zero.  This is called \emph{static equilibrium}:
+\[
+\text{Static equilibrium:} \quad \vec{F}_\text{net} = \vec{0} \quad \text{and} \quad \vec{\tau}_\text{net} = \vec{0}.
+\]
+
+\end{topicbox}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{topicbox}{Rolling}
+
+\noindent Rolling consists of both \emph{translational} and \emph{rotational} motion; these motions are linked by the \emph{rolling constraint},
+\[
+v_\text{cm} = R\omega.
+\]
+The rolling of a rigid body can ve described as a translation of the centre of mass plus a rotation about the centre of mass.  The total kinetic energy of rolling is
+\[
+K = K_\text{rot} + K_\text{cm} = \frac{1}{2} I_\text{cm} \omega^2 + \frac{1}{2}M v_\text{cm}^2.
+\]
+\end{topicbox}
+
+
+\begin{topicbox}{Angular Momentum}
+
+\noindent The \emph{angular momentum} of a \emph{particle} is defined as 
+\begin{eqbox}
+\vec{L} = \vec{r} \times \vec{p}.
+\end{eqbox}
+\noindent In the case that a \emph{rigid body} is rotating about a fixed axis or an axis of symmetry, its angular momentum is 
+\[
+\vec{L} = I \vec{\omega}.
+\]
+
+We can write Newton's second law for rotation in terms of angular momentum:
+\[
+\frac{d\vec{L}}{dt} = \vec{\tau}_\text{net},
+\]
+so that a net torque changes the angular momentum of an object.
+
+If the system is \emph{isolated}, so that $\tau_\text{net} = 0$, angular momentum is conserved:
+\begin{eqbox}
+\vec{L}_i = \vec{L}_f.
+\end{eqbox}
+
+\end{topicbox}
+
+
+\end{multicols}
+
+
+
+
+
+\makebanner{Mechanics}
+
+\end{document}
+
+
+
+
