@@ -1,0 +1,156 @@
+\documentclass{summarysheet}
+
+\begin{document}
+
+\maketitle{9}{Work and the Energy Principle}
+
+
+\begin{multicols}{2}
+
+\begin{topicbox}{The Dot Product}
+
+\noindent The \emph{dot} (or \emph{scalar}) \emph{product} of two vectors $\vec{A}$ and $\vec{B}$ is defined as
+\begin{eqbox}
+\vec{A} \cdot \vec{B} = AB \cos (\alpha),
+\end{eqbox}
+\noindent where $\alpha$ is the angle between the vectors.
+
+We can also write the dot product in terms of vector components in a coordinate system:
+\[
+\vec{A} \cdot \vec{B} = A_x B_x + A_y B_y.
+\]
+
+\end{topicbox}
+
+\begin{topicbox}{Work}
+
+\begin{multicols}{2}
+
+\noindent \emph{Work} is the transfer of energy between the environment and the system.  The work done by a force $\vec{F}$ on a particle that undergoes a displacement from point $i$ to point $f$ is
+\[
+W = \int_i^f \vec{F} \cdot d\vec{r}.
+\]
+
+\begin{center}
+\includegraphics[scale=0.5]{fig_path1.pdf}
+\end{center}
+
+\end{multicols}
+
+If the force is \emph{constant}, then the integral simplifies and the work is just
+\begin{eqbox}
+W = \vec{F} \cdot \Delta \vec{r},
+\end{eqbox}
+\noindent where  $\Delta \vec{r} = \vec{r}_f - \vec{r}_i$.
+
+If the work done is \emph{positive} ($W>0$), the energy is transferred \emph{into} the system; if \emph{negative} ($W<0$) the energy is transferred \emph{out} of the system.
+
+
+\end{topicbox}
+
+
+\begin{topicbox}{Power}
+
+\emph{Power} is the rate at which energy is transferred or transformed:
+\begin{eqbox}
+P = \frac{dE_\text{sys}}{dt}.
+\end{eqbox}
+\noindent It has units of watts, where 1 W = 1 J/s.
+
+If the energy is transferred by work done on the system, then the power can be calculated as
+\[
+P = \frac{dW}{dt} = \vec{F} \cdot \vec{v}.
+\]
+
+\end{topicbox}
+
+
+
+
+\begin{topicbox}{Force and Potential Energy}
+
+\begin{multicols}{2}
+
+\noindent A force for which the work done on a particle as it moves from an initial position to a final position is independent of the path followed is called a \emph{conservative force}.
+
+A potential energy can be associated with any conservative force, and is defined to be the negative of the work done between $i$ and $f$:
+\[
+\Delta U = -W(i \to f).
+\]
+\begin{center}
+\includegraphics[scale=0.5]{fig_path2.pdf}
+\end{center}
+
+
+\end{multicols}
+\noindent Examples of conservative forces include gravity, the spring force, and the electrostatic force; forces such as friction and tension are \emph{not} conservative and have no potential energy associated with them.
+
+
+
+Given the definition of work, we can write the relationship between potential energy and its associated conservative force as
+\begin{eqbox}
+\Delta U = - \int_i^f \vec{F} \cdot d \vec{r}.
+\end{eqbox}
+\noindent We can also rearrange this for the force:
+\begin{eqbox}
+F_s = - \frac{dU}{ds},
+\end{eqbox}
+\noindent where $F_s$ is the component of the force along the $s$ direction.
+
+
+\end{topicbox}
+
+
+\begin{topicbox}{Thermal Energy and Dissipative Forces}
+
+The thermal energy of a system is the sum of all microscopic kinetic and potential energies:
+\[
+E_\text{th} = K_\text{micro} + U_\text{micro},
+\]
+\noindent and is related to the \emph{temperature} of the system.
+
+Forces that transform energy into thermal energy, such as friction or drag, are called \emph{dissipative forces}.  Dissipative forces always \emph{increase} the thermal energy of a system.
+
+In the case of friction, the increase in thermal energy can be calculated to be
+\begin{eqbox}
+\Delta E_\text{th} = f_k \Delta s,
+\end{eqbox}
+\noindent where $\Delta s$ is the distance through which the friction force acts.
+
+\end{topicbox}
+
+
+
+
+
+\end{multicols}
+
+
+\begin{topicbox}{The Energy Principle}
+
+\begin{multicols}{2}
+
+The \emph{energy principle} says that the total system energy can change through work done on the system by \emph{external forces}:
+\begin{eqbox}
+\Delta E_\text{sys} = \Delta K + \Delta U + \Delta E_\text{th} = W_\text{ext}.
+\end{eqbox}
+
+In an \emph{isolated system}, $W_\text{ext} = 0$ and the total system energy is \emph{conserved}.   This is the \emph{law of conservation of energy}.
+
+\begin{center}
+\includegraphics[scale=0.5]{fig_sys.pdf}
+\end{center}
+
+\end{multicols}
+
+\end{topicbox}
+
+
+
+
+\makebanner{Mechanics}
+
+\end{document}
+
+
+
