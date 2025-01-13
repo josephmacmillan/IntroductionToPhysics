@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.7in"
+   height="3in"
+   viewBox="0 0 259.19171 287.99077"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="fig_continuous.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#323232"
+     inkscape:document-units="in"
+     showgrid="false"
+     showborder="true"
+     inkscape:zoom="2.9886364"
+     inkscape:cx="143.87833"
+     inkscape:cy="139.02661"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="2.729075"
+       markerHeight="3.155"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-9-5-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="2.729075"
+       markerHeight="3.155"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="2.729075"
+       markerHeight="3.155"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-9-5-9-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="2.729075"
+       markerHeight="3.155"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-7-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.959969;stroke-dasharray:2.8799, 2.8799;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 38.439071,46.773119 174.03441,150.44871 v 0"
+       id="path4863" />
+    <path
+       style="fill:#e76f51;fill-opacity:1;stroke:#960096;stroke-width:3.83988;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 171.33107,149.9885 46.48647,-0.1718"
+       id="path5472" />
+    <path
+       style="fill:#e76f51;fill-opacity:1;stroke:#960096;stroke-width:1.91994;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-6)"
+       d="m 174.28393,150.82032 18.61202,14.32849"
+       id="path5472-2"
+       inkscape:transform-center-x="-9.9193722"
+       inkscape:transform-center-y="7.4731395" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:7.68, 3.84;stroke-dashoffset:0;stroke-opacity:1"
+       x="53.394333"
+       y="39.527534"
+       id="text14457-7-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan14455-6-7-5"
+         x="53.394333"
+         y="39.527534">dQ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:7.68, 3.84;stroke-dashoffset:0;stroke-opacity:1"
+       x="156.49364"
+       y="160.18001"
+       id="text14457-7-1-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan14455-6-7-5-8"
+         x="156.49364"
+         y="160.18001"
+         style="font-style:normal">P</tspan></text>
+    <g
+       id="g3258"
+       transform="translate(165.64312,-98.330825)">
+      <path
+         style="fill:#e76f51;fill-opacity:1;stroke:#000000;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-9-5-9)"
+         d="M 53.595396,224.13022 H 61.64206"
+         id="path5472-7-53" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+         x="228.78589"
+         y="134.30299"
+         id="text13922-7-7"
+         transform="translate(-178.32437,104.80484)"><tspan
+           x="228.78589"
+           y="134.30299"
+           id="tspan18993"><tspan
+             style="font-style:italic;font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Italic'"
+             id="tspan18991">E</tspan></tspan></text>
+    </g>
+    <g
+       id="g3258-1"
+       transform="translate(152.38018,-53.475518)">
+      <path
+         style="fill:#e76f51;fill-opacity:1;stroke:#000000;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-9-5-9-9)"
+         d="m 48.045788,225.01767 h 8.046664"
+         id="path5472-7-53-9" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+         x="228.78589"
+         y="134.30299"
+         id="text13922-7-7-4"
+         transform="translate(-193.87366,105.69229)"><tspan
+           x="228.78589"
+           y="134.30299"
+           id="tspan18997"><tspan
+             style="font-style:italic;font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Italic'"
+             id="tspan18995">dE</tspan></tspan></text>
+    </g>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.762463;stroke-dasharray:6.09969, 3.04986;stroke-opacity:1"
+       id="path3325"
+       cx="173.12038"
+       cy="149.78816"
+       r="3.6584532" />
+    <rect
+       style="fill:#e76f51;fill-opacity:1;stroke:#000000;stroke-width:0.959969;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8473"
+       width="16.45285"
+       height="247.4247"
+       x="31.456152"
+       y="22.898216" />
+    <rect
+       style="fill:#8c2c13;fill-opacity:1;stroke:#000000;stroke-width:0.938932;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8473-3"
+       width="16.436512"
+       height="9.6870747"
+       x="31.437054"
+       y="47.162224" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5"
+       transform="translate(-193.97892,-95.289639)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19001"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan18999">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-2"
+       transform="translate(-193.97892,-57.460916)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19005"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19003">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-6"
+       transform="translate(-193.97892,-38.546554)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19009"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19007">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-8"
+       transform="translate(-193.97892,-19.632193)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19013"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19011">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-7"
+       transform="translate(-193.97892,-0.71783108)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19017"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19015">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-6-9"
+       transform="translate(-193.97892,18.196531)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19021"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19019">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-2-2"
+       transform="translate(-193.97892,37.110892)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19025"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19023">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-6-0"
+       transform="translate(-193.97892,56.025254)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19029"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19027">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-6-1-2"
+       transform="translate(-193.97892,74.939615)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19033"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19031">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-75"
+       transform="translate(-193.97892,93.853977)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19037"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19035">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-2-28"
+       transform="translate(-193.97892,112.76834)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19041"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19039">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-6-1-7"
+       transform="translate(-193.97892,131.6827)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan19045"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan19043">+</tspan></tspan></text>
+  </g>
+</svg>
