@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4in"
+   height="4in"
+   viewBox="0 0 384 384"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="fig_atom.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#323232"
+     inkscape:document-units="in"
+     showgrid="false"
+     showborder="true"
+     inkscape:zoom="2.1132851"
+     inkscape:cx="220.03657"
+     inkscape:cy="194.72054"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1775">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1773" />
+      <stop
+         style="stop-color:#e76f51;stop-opacity:1;"
+         offset="1"
+         id="stop1771" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11323">
+      <stop
+         style="stop-color:#457b9d;stop-opacity:1;"
+         offset="0.12178334"
+         id="stop11319" />
+      <stop
+         style="stop-color:#457b9d;stop-opacity:0.04120066;"
+         offset="1"
+         id="stop11321" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11323"
+       id="radialGradient11325"
+       cx="192.06868"
+       cy="181.61241"
+       fx="192.06868"
+       fy="181.61241"
+       r="131.46312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3948251,0,0,1.3557886,-77.045153,-54.542317)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1775"
+       id="radialGradient1777"
+       cx="190.85707"
+       cy="191.68573"
+       fx="190.85707"
+       fy="191.68573"
+       r="14.371581"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:url(#radialGradient11325);fill-opacity:1;stroke:none;stroke-width:1.32017;stroke-dasharray:none;stroke-opacity:1"
+       id="path10931"
+       cx="190.85707"
+       cy="191.68573"
+       rx="182.69855"
+       ry="177.58543" />
+    <circle
+       style="fill:url(#radialGradient1777);fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       id="path5015"
+       cx="190.85707"
+       cy="191.68573"
+       r="13.891581" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922"
+       transform="translate(-14.670152,-14.356464)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan2894"><tspan
+           dx="0 0 0 0 0 0 0 0 0 2.7120168"
+           style="font-size:18.6667px;font-family:Lato;-inkscape-font-specification:'Lato, Normal'"
+           id="tspan2892">Negative electron </tspan></tspan><tspan
+         x="228.78589"
+         y="157.63637"
+         id="tspan2898"><tspan
+           style="font-size:18.6667px;font-family:Lato;-inkscape-font-specification:'Lato, Normal'"
+           id="tspan2896">cloud</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7"
+       transform="translate(-33.888034,90.433686)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan2902"><tspan
+           style="font-size:18.6667px;font-family:Lato;-inkscape-font-specification:'Lato, Normal'"
+           id="tspan2900">Positive nucleus</tspan></tspan></text>
+  </g>
+</svg>
