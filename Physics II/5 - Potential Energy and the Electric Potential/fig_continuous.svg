@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1.8in"
+   height="2.8in"
+   viewBox="0 0 172.79446 268.79139"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="fig_continuous.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:export-filename="fig_continuous.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#323232"
+     inkscape:document-units="in"
+     showgrid="false"
+     showborder="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="189.68139"
+     inkscape:cy="129.22376"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="36.325016,18.866295"
+       up_right_point="172.53667,18.866295"
+       down_left_point="18.474456,48.909005"
+       down_right_point="190.38723,48.909005"
+       id="path-effect58706"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="true"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="120.61884,133.99917"
+       up_right_point="138.58792,148.87021"
+       down_left_point="120.61884,199.03025"
+       down_right_point="138.58792,184.15921"
+       id="path-effect32429"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="true"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="145.18917,135.57767"
+       up_right_point="209.28127,135.57767"
+       down_left_point="145.18917,200.60875"
+       down_right_point="209.28127,200.60875"
+       id="path-effect30913"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="69.694496,213.52328"
+       up_right_point="133.7866,213.52328"
+       down_left_point="69.694496,278.55436"
+       down_right_point="133.7866,278.55436"
+       id="path-effect30811"
+       is_visible="false"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="70.698164,141.87504"
+       up_right_point="122.30455,141.87504"
+       down_left_point="70.698164,193.48143"
+       down_right_point="122.30455,193.48143"
+       id="path-effect24216"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="56.392733,44.957208"
+       up_right_point="192.60438,44.957208"
+       down_left_point="38.542173,74.999918"
+       down_right_point="210.45494,74.999918"
+       id="path-effect58706-3"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="true"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="36.964556,47.73993"
+       up_right_point="173.1762,47.73993"
+       down_left_point="19.113996,77.78264"
+       down_right_point="191.02676,77.78264"
+       id="path-effect58706-7"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="true"
+       overflow_perspective="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-7-9-9-2"
+       transform="translate(-40.308832,-59.262798)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.959969;stroke-dasharray:2.8799, 2.8799;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 23.660589,37.11591 159.25593,140.7915 v 0"
+       id="path4863" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:7.68, 3.84;stroke-dashoffset:0;stroke-opacity:1"
+       x="38.615852"
+       y="29.870325"
+       id="text14457-7-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan14455-6-7-5"
+         x="38.615852"
+         y="29.870325">dQ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:7.68, 3.84;stroke-dashoffset:0;stroke-opacity:1"
+       x="141.71516"
+       y="150.5228"
+       id="text14457-7-1-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan14455-6-7-5-8"
+         x="141.71516"
+         y="150.5228"
+         style="font-style:normal">P</tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.762463;stroke-dasharray:6.09969, 3.04986;stroke-opacity:1"
+       id="path3325"
+       cx="158.34189"
+       cy="140.13095"
+       r="3.6584532" />
+    <rect
+       style="fill:#e76f51;fill-opacity:1;stroke:#000000;stroke-width:0.959969;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8473"
+       width="16.45285"
+       height="247.4247"
+       x="16.677668"
+       y="13.241007" />
+    <rect
+       style="fill:#8c2c13;fill-opacity:1;stroke:#000000;stroke-width:0.938932;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8473-3"
+       width="16.436512"
+       height="9.6870747"
+       x="16.658571"
+       y="37.505013" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5"
+       transform="translate(-208.7574,-104.94684)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20098"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20096">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-2"
+       transform="translate(-208.7574,-67.118128)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20102"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20100">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-6"
+       transform="translate(-208.7574,-48.203768)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20106"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20104">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-8"
+       transform="translate(-208.7574,-29.289398)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20110"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20108">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-7"
+       transform="translate(-208.7574,-10.37504)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20114"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20112">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-6-9"
+       transform="translate(-208.7574,8.5393215)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20118"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20116">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-2-2"
+       transform="translate(-208.7574,27.453683)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20122"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20120">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-6-0"
+       transform="translate(-208.7574,46.368045)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20126"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20124">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-6-1-2"
+       transform="translate(-208.7574,65.282406)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20130"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20128">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-0-75"
+       transform="translate(-208.7574,84.196768)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20134"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20132">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-2-28"
+       transform="translate(-208.7574,103.11113)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20138"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20136">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:justify;white-space:pre;inline-size:148.348;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1"
+       x="228.78589"
+       y="134.30299"
+       id="text13922-7-3-8-9-5-6-1-7"
+       transform="translate(-208.7574,122.02549)"><tspan
+         x="228.78589"
+         y="134.30299"
+         id="tspan20142"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'Liberation Serif, Normal'"
+           id="tspan20140">+</tspan></tspan></text>
+  </g>
+</svg>
